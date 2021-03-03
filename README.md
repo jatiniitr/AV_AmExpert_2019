@@ -4,9 +4,13 @@ https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hack
 
 ## Rank:
 Private LB - 15
+
 Public LB - 27
+
 Rank 1 AUC - 0.938
+
 My AUC - 0.926
+
 
 ## Introduction:
 American Express and Analytics Vidhya presents “AmExpert 2019 – Machine Learning Hackathon”. An amazing opportunity to showcase your analytical abilities and talent.
